@@ -1,0 +1,162 @@
+ // Bourbon & Neat
+@import '../../bower_components/bourbon/dist/bourbon';
+@import '../../bower_components/neat/app/assets/stylesheets/neat';
+
+// Custom Styles
+body {
+  background: #fafafa;
+  color: #333;
+}
+
+.welcome {
+  width: 580px;
+  height: 130px;
+  border: none;
+  color: rgb(122, 223, 69);
+  padding-left: 30px;
+  margin-left:20px;
+  margin-top: 40px;
+  font-family: 'Oswald', sans-serif;
+  font-size:30px;
+}
+
+
+.wtd {
+  font-size: 18px;
+  margin-left: 180px;
+  margin-top: -35px;
+  color: rgb(206, 109, 40);
+  font-family: 'Poiret One', cursive;
+}
+
+.infofields {
+  width: 1300px;
+  margin-left: 15px;
+  margin-right: 10px;
+}
+
+.info {
+  font-family: 'Poiret One', cursive;
+  color: rgb(94, 181, 217);
+  display: inline-flex;
+  padding-top: 80px;
+  margin-left: 40px;
+}
+
+.button {
+  margin: 10px;
+  margin-left: 20px;
+}
+.info2 {
+  font-family: 'Poiret One', cursive;
+  color: rgb(94, 181, 217);
+  display: inline-flex;
+  padding-top: 35px;
+  margin-left: 40px;
+}
+
+.info3 {
+  font-family: 'Poiret One', cursive;
+  color: rgb(94, 181, 217);
+  display: inline-flex;
+  padding-top: 35px;
+  margin-left: 40px;
+}
+
+.info4 {
+  font-family: 'Poiret One', cursive;
+  color: rgb(94, 181, 217);
+  display: inline-flex;
+  padding-top: 35px;
+  margin-left: 40px;
+}
+
+.info5 {
+  font-family: 'Poiret One', cursive;
+  color: rgb(94, 181, 217);
+  display: inline-flex;
+  padding-top: 35px;
+  margin-left: 40px;
+}
+
+.info6 {
+  font-family: 'Poiret One', cursive;
+  color: rgb(94, 181, 217);
+  display: inline-flex;
+  padding-top: 35px;
+  margin-left: 40px;
+}
+
+.info7 {
+  font-family: 'Poiret One', cursive;
+  color: rgb(94, 181, 217);
+  display: inline-flex;
+  padding-top: 35px;
+  margin-left: 40px;
+}
+
+.info8 {
+  font-family: 'Poiret One', cursive;
+  color: rgb(94, 181, 217);
+  display: inline-flex;
+  padding-top: 35px;
+  margin-left: 40px;
+}
+
+.info9 {
+  font-family: 'Poiret One', cursive;
+  color: rgb(94, 181, 217);
+  display: inline-flex;
+  padding-top: 35px;
+  margin-left: 40px;
+}
+
+.info10 {
+  font-family: 'Poiret One', cursive;
+  color: rgb(94, 181, 217);
+  display: inline-flex;
+  padding-top: 35px;
+  margin-left: 40px;
+}
+
+
+/* SECOND PAGE */
+
+.create {
+  width: 580px;
+  height: 130px;
+  border: none;
+  color: rgb(122, 223, 69);
+  padding-left: 30px;
+  margin-left:20px;
+  margin-top: 40px;
+  font-family: 'Oswald', sans-serif;
+  font-size:34px;
+
+}
+
+.fillout {
+  font-size: 18px;
+  margin-left: 185px;
+  margin-top: -35px;
+  color: rgb(206, 109, 40);
+  font-family: 'Poiret One', cursive;
+}
+
+.acc {
+  font-family: 'Poiret One', cursive;
+  color: rgb(94, 181, 217);
+  display: block;
+  padding-top: 100px;
+  margin-left: 40px;
+  font-size: 20px;
+}
+
+.pass {
+  font-family: 'Poiret One', cursive;
+  color: rgb(94, 181, 217);
+  display: inline-flex;
+  padding-top: 35px;
+  margin-left: 40px;
+  font-size: 20px;
+}
