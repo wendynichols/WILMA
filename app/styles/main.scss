@@ -3,11 +3,15 @@
 @import '../../bower_components/neat/app/assets/stylesheets/neat';
 
 // Custom Styles
+
+
+
 body {
   background: #fafafa;
   color: #333;
   margin-bottom: 200px;
 }
+
 
 .welcome {
   width: 580px;
@@ -31,17 +35,94 @@ body {
 }
 
 .infofields {
-  width: 1300px;
-  margin-left: 15px;
+  width: 1500px;
+  margin-left: 10px;
   margin-right: 10px;
 }
 
 .info {
   font-family: 'Poiret One', cursive;
   color: rgb(94, 181, 217);
-  display: inline-flex;
   padding-top: 80px;
-  margin-left: 40px;
+}
+
+
+.info2 {
+  font-family: 'Poiret One', cursive;
+  color: rgb(94, 181, 217);
+  padding-top: 80px;
+}
+
+.info3 {
+  font-family: 'Poiret One', cursive;
+  color: rgb(94, 181, 217);
+  padding-top: 80px;
+}
+
+.info4 {
+  font-family: 'Poiret One', cursive;
+  color: rgb(94, 181, 217);
+  padding-top: 80px;
+}
+
+.info5 {
+  font-family: 'Poiret One', cursive;
+  color: rgb(94, 181, 217);
+  padding-top: 80px;
+}
+
+.info6 {
+  font-family: 'Poiret One', cursive;
+  color: rgb(94, 181, 217);
+  padding-top: 80px;
+}
+
+.info7 {
+  font-family: 'Poiret One', cursive;
+  color: rgb(94, 181, 217);
+  padding-top: 80px;
+}
+
+.info8 {
+  font-family: 'Poiret One', cursive;
+  color: rgb(94, 181, 217);
+  padding-top: 80px;
+}
+
+.info9 {
+  font-family: 'Poiret One', cursive;
+  color: rgb(94, 181, 217);
+  padding-top: 80px;
+}
+
+.info10 {
+  font-family: 'Poiret One', cursive;
+  color: rgb(94, 181, 217);
+  padding-top: 80px;
+}
+.categ{
+ padding-top: 10px;
+ width:1000px;
+}
+
+.label1{
+  display:inline;
+  margin-right:120px;
+}
+
+.label2{
+  display:inline;
+  margin-right:130px;
+}
+
+.label3{
+  display:inline;
+  margin-right:110px;
+}
+
+.label4{
+  margin-right:120px;
+  display: inline;
 }
 
 .button {
@@ -50,77 +131,7 @@ body {
   text-decoration: none;
   color: rgb(206, 109, 40);
 }
-.info2 {
-  font-family: 'Poiret One', cursive;
-  color: rgb(94, 181, 217);
-  display: inline-flex;
-  padding-top: 35px;
-  margin-left: 40px;
-}
 
-.info3 {
-  font-family: 'Poiret One', cursive;
-  color: rgb(94, 181, 217);
-  display: inline-flex;
-  padding-top: 35px;
-  margin-left: 40px;
-}
-
-.info4 {
-  font-family: 'Poiret One', cursive;
-  color: rgb(94, 181, 217);
-  display: inline-flex;
-  padding-top: 35px;
-  margin-left: 40px;
-}
-
-.info5 {
-  font-family: 'Poiret One', cursive;
-  color: rgb(94, 181, 217);
-  display: inline-flex;
-  padding-top: 35px;
-  margin-left: 40px;
-}
-
-.info6 {
-  font-family: 'Poiret One', cursive;
-  color: rgb(94, 181, 217);
-  display: inline-flex;
-  padding-top: 35px;
-  margin-left: 40px;
-}
-
-.info7 {
-  font-family: 'Poiret One', cursive;
-  color: rgb(94, 181, 217);
-  display: inline-flex;
-  padding-top: 35px;
-  margin-left: 40px;
-}
-
-.info8 {
-  font-family: 'Poiret One', cursive;
-  color: rgb(94, 181, 217);
-  display: inline-flex;
-  padding-top: 35px;
-  margin-left: 40px;
-}
-
-.info9 {
-  font-family: 'Poiret One', cursive;
-  color: rgb(94, 181, 217);
-  display: inline-flex;
-  padding-top: 35px;
-  margin-left: 40px;
-}
-
-.info10 {
-  font-family: 'Poiret One', cursive;
-  color: rgb(94, 181, 217);
-  display: inline-flex;
-  padding-top: 35px;
-  margin-left: 40px;
-}
 
 
 /* SECOND PAGE */
