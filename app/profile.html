@@ -10,10 +10,11 @@
     <!-- build:css styles/vendor.css -->
     <!-- bower:css -->
     <link rel="stylesheet" href="../bower_components/normalize-css/normalize.css" />
-    <link href='http://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Oswald:700' rel='stylesheet' type='text/css'>
     <!-- endbower -->
     <!-- endbuild -->
+
+    <link href='http://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Oswald:700' rel='stylesheet' type='text/css'>
 
     <!-- build:css styles/main.css -->
     <link rel="stylesheet" href="styles/main.css">
@@ -27,16 +28,34 @@
     <body>
 
       <div class="topPro">
-        <h1>Manage Your Profile</h1>
+        <h1>Manage Your Profile:</h1>
       </div>
-        <img class="iphone" src ="file:///Users/Andrew/Pictures/iphone.png"/>
+        <img class="iphone" src ="https://s3.amazonaws.com/uploads.hipchat.com/31349/1240557/HSStHmdBdseLMmq/iphone.png"/>
           <div class="chkbox1">
             <h2 class="boxTitle">Notification Preferences</h2>
-              <input class="a" type="checkbox"
-                check="unchecked"/><span class="sms">SMS</span>
-              <input class="a" type="checkbox"
-            check="unchecked"/><span class="email">E-mail</span>
-          </div>
+              <span class='choose'>Pick one or both</span>
+                <input class="a" type="checkbox"
+                  check="unchecked"/>
+                  <span class="sms">SMS</span>
+                <input class="a" type="checkbox" check="unchecked"/>
+              <span class="email">E-mail</span>
+
+            <div class="submitbutt">
+              <a href= "http://google.com" class='submit'>Submit</a> 
+               </div>
+
+            </div>
+
+            <div class='chkbox2'>
+              <h2 class='nextTitle'>Manage Family Members</h2>
+                <span class='mfm'>Add/Delete members</span>
+                <a href="http://localhost:9000/" class="nextpage">Change Family List</a>
+
+            </div>
+
+
+
+
 
 
 
